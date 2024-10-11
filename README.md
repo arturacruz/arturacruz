@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturacruz&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&size_weight=0&count_weight=1" alt="[Artur Cruz]'s GitHub Stats"/>
+    <img src="https://top-languages-one.vercel.app/api/top-langs/?username=arturacruz&exclude_repo=top-languages,dotfiles&hide=javascript&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&size_weight=0&count_weight=1" alt="[Artur Cruz]'s GitHub Stats"/>
 </div>
 
 <div align="center">
