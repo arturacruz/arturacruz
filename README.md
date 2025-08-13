@@ -15,6 +15,7 @@
 </div>
 
 <div align="center">
+  <img alt="rust" src="https://img.shields.io/badge/rust-brown?style=for-the-badge&logo=rust&logoColor=white">
   <img alt="py" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&logoColor=red&color=white">
   <img alt="c" src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white">
