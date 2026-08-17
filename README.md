@@ -36,7 +36,7 @@
 
 
 
-![TopLangs](https://top-languages-one.vercel.app/api/top-langs/?username=arturacruz&exclude_repo=musicmeter-back,musicmeter-front,top-languages,dotfiles,rustlings,prova-intermediaria-biblioteca-zambas&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5)
+![TopLangs](https://top-languages-one.vercel.app/api/top-langs/?username=arturacruz&exclude_repo=musicmeter-back,niri-dotfiles,musicmeter-front,top-languages,dotfiles,rustlings,prova-intermediaria-biblioteca-zambas&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arturacruz&theme=gruvbox)
 
