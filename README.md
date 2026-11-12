@@ -20,6 +20,7 @@
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Csharp](https://img.shields.io/badge/c%23-purple?style=for-the-badge&logo=dotnet&labelColor=purple&color=purple)
+![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![WGSL](https://img.shields.io/badge/wgsl-red?style=for-the-badge&logo=webgpu&logoColor=white&labelColor=red&color=red)
 ![GLSL](https://img.shields.io/badge/glsl-lightblue?style=for-the-badge&logo=opengl&logoColor=white&labelColor=lightblue&color=lightblue)
 
@@ -31,7 +32,9 @@
 ![Unity](https://img.shields.io/badge/unity-grey?style=for-the-badge&logo=unity&logoColor=white&labelColor=grey&color=grey)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-green?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
+![Axum](https://img.shields.io/badge/axum-darkred?style=for-the-badge&logo=tokio&logoColor=white)
 ![GTK](https://img.shields.io/badge/gtk-%237FE719?style=for-the-badge&logo=gtk&logoColor=white)
 
 ## My Stats
